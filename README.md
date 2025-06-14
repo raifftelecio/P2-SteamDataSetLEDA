@@ -36,6 +36,8 @@ Para que o código seja executado da maneira correta, **SIGA AS INSTRUÇÕES:**
 
 **Relatório:** está localizado no próprio projeto "RelatorioProjeto2-LEDA-UT2.pdf" 
 
+https://github.com/raifftelecio/P2-SteamDataSetLEDA/blob/2af7449e69e7b637ee3957fd83e6b68cef2cb052/RelatorioProjeto2-LEDA-UT2.pdf
+
 ---------------------------------------------------------------------------------------------
 Participantes do Grupo:
 --------------------------------------------------------------------------------------------
